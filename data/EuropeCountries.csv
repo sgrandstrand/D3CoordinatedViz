@@ -1,0 +1,51 @@
+ID,name,ABBREV,POP_EST,POP_RANK,GDP_MD_EST,POP_YEAR,GDP_YEAR,"ECONOMY,",INCOME_GRP,ADM0_A3_US,NAME_EN
+0,Vatican,Vat.,1000,3,0,2015,0,2. Developed region: nonG7,2. High income: nonOECD,VAT,Vatican City
+1,Jersey,Jey.,98840,8,5080,2017,2015,2. Developed region: nonG7,2. High income: nonOECD,JEY,Jersey
+2,Guernsey,Guern.,66502,8,3465,2017,2015,2. Developed region: nonG7,2. High income: nonOECD,GGY,Guernsey
+3,Isle of Man,IoMan,88815,8,7428,2017,2014,2. Developed region: nonG7,2. High income: nonOECD,IMN,Isle of Man
+4,United Kingdom,U.K.,64769452,16,2788000,2017,2016,1. Developed region: G7,1. High income: OECD,GBR,United Kingdom
+5,Ukraine,Ukr.,44033874,15,352600,2017,2016,6. Developing region,4. Lower middle income,UKR,Ukraine
+6,Switzerland,Switz.,8236303,13,496300,2017,2016,2. Developed region: nonG7,1. High income: OECD,CHE,Switzerland
+7,Sweden,Swe.,9960487,13,498100,2017,2016,2. Developed region: nonG7,1. High income: OECD,SWE,Sweden
+8,Spain,Sp.,48958159,15,1690000,2017,2016,2. Developed region: nonG7,1. High income: OECD,ESP,Spain
+9,Slovakia,Svk.,5445829,13,168800,2017,2016,2. Developed region: nonG7,1. High income: OECD,SVK,Slovakia
+10,Slovenia,Slo.,1972126,12,68350,2017,2016,2. Developed region: nonG7,1. High income: OECD,SVN,Slovenia
+11,Serbia,Serb.,7111024,13,101800,2017,2016,6. Developing region,3. Upper middle income,SRB,Serbia
+12,San Marino,S.M.,33537,7,2023,2017,2016,2. Developed region: nonG7,2. High income: nonOECD,SMR,San Marino
+13,Russia,Rus.,142257519,17,3745000,2017,2016,3. Emerging region: BRIC,3. Upper middle income,RUS,Russia
+14,Romania,Rom.,21529967,15,441000,2017,2016,2. Developed region: nonG7,3. Upper middle income,ROU,Romania
+15,Portugal,Port.,10839514,14,297100,2017,2016,2. Developed region: nonG7,1. High income: OECD,PRT,Portugal
+16,Poland,Pol.,38476269,15,1052000,2017,2016,2. Developed region: nonG7,1. High income: OECD,POL,Poland
+17,Norway,Nor.,5320045,13,364700,2017,2016,2. Developed region: nonG7,1. High income: OECD,NOR,Norway
+18,Netherlands,Neth.,17084719,14,870800,2017,2016,2. Developed region: nonG7,1. High income: OECD,NLD,Netherlands
+19,Montenegro,Mont.,642550,11,10610,2017,2016,6. Developing region,3. Upper middle income,MNE,Montenegro
+20,Moldova,Mda.,3474121,12,18540,2017,2016,6. Developing region,4. Lower middle income,MDA,Moldova
+21,Monaco,Mco.,30645,7,7672,2017,2015,2. Developed region: nonG7,2. High income: nonOECD,MCO,Monaco
+22,Malta,Malta,416338,10,16320,2017,2016,2. Developed region: nonG7,2. High income: nonOECD,MLT,Malta
+23,Macedonia,Mkd.,2103721,12,29520,2017,2016,6. Developing region,3. Upper middle income,MKD,Republic of Macedonia
+24,Luxembourg,Lux.,594130,11,58740,2017,2016,2. Developed region: nonG7,1. High income: OECD,LUX,Luxembourg
+25,Lithuania,Lith.,2823859,12,85620,2017,2016,2. Developed region: nonG7,3. Upper middle income,LTU,Lithuania
+26,Liechtenstein,Liech.,38244,7,4978,2017,2014,2. Developed region: nonG7,2. High income: nonOECD,LIE,Liechtenstein
+27,Latvia,Lat.,1944643,12,50650,2017,2016,2. Developed region: nonG7,3. Upper middle income,LVA,Latvia
+28,Kosovo,Kos.,1895250,12,18490,2017,2016,6. Developing region,4. Lower middle income,KOS,Kosovo
+29,Italy,Italy,62137802,16,2221000,2017,2016,1. Developed region: G7,1. High income: OECD,ITA,Italy
+30,Ireland,Ire.,5011102,13,322000,2017,2016,2. Developed region: nonG7,1. High income: OECD,IRL,Ireland
+31,Iceland,Iceland,339747,10,16150,2017,2016,2. Developed region: nonG7,1. High income: OECD,ISL,Iceland
+32,Hungary,Hun.,9850845,13,267600,2017,2016,2. Developed region: nonG7,1. High income: OECD,HUN,Hungary
+33,Greece,Greece,10768477,14,290500,2017,2016,2. Developed region: nonG7,1. High income: OECD,GRC,Greece
+34,Germany,Ger.,80594017,16,3979000,2017,2016,1. Developed region: G7,1. High income: OECD,DEU,Germany
+35,France,Fr.,67106161,16,2699000,2017,2016,1. Developed region: G7,1. High income: OECD,FRA,France
+36,Aland,Aland,27153,7,1563,2017,2016,2. Developed region: nonG7,1. High income: OECD,ALD,Aland Islands
+37,Finland,Fin.,5491218,13,224137,2017,2016,2. Developed region: nonG7,1. High income: OECD,FIN,Finland
+38,Estonia,Est.,1251581,12,38700,2017,2016,2. Developed region: nonG7,1. High income: OECD,EST,Estonia
+39,Faeroe Is.,Faeroe Is.,50730,8,2001,2017,2014,2. Developed region: nonG7,2. High income: nonOECD,FRO,Faroe Islands
+40,Denmark,Den.,5605948,13,264800,2017,2016,2. Developed region: nonG7,1. High income: OECD,DNK,Denmark
+41,Czechia,Cz.,10674723,14,350900,2017,2016,2. Developed region: nonG7,1. High income: OECD,CZE,Czech Republic
+42,Croatia,Cro.,4292095,12,94240,2017,2016,2. Developed region: nonG7,2. High income: nonOECD,HRV,Croatia
+43,Bulgaria,Bulg.,7101510,13,143100,2017,2016,2. Developed region: nonG7,3. Upper middle income,BGR,Bulgaria
+44,Bosnia and Herz.,B.H.,3856181,12,42530,2017,2016,6. Developing region,3. Upper middle income,BIH,Bosnia and Herzegovina
+45,Belgium,Belg.,11491346,14,508600,2017,2016,2. Developed region: nonG7,1. High income: OECD,BEL,Belgium
+46,Belarus,Bela.,9549747,13,165400,2017,2016,6. Developing region,3. Upper middle income,BLR,Belarus
+47,Austria,Aust.,8754413,13,416600,2017,2016,2. Developed region: nonG7,1. High income: OECD,AUT,Austria
+48,Andorra,And.,85702,8,3327,2017,2015,2. Developed region: nonG7,2. High income: nonOECD,AND,Andorra
+49,Albania,Alb.,3047987,12,33900,2017,2016,6. Developing region,4. Lower middle income,ALB,Albania
